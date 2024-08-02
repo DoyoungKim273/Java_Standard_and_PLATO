@@ -1,7 +1,6 @@
 package com.ruby.java.ch02;
 
-public class Ex2_9 {
-// first commit
+public class Ex2_09 {
 	
 	public static void main(String[] args) {
 		String url = "www.codechobo.com";

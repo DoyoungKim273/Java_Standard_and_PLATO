@@ -23,7 +23,6 @@ public class Exer4_07 {
 		System.out.println("sum2 = " + sum2);
 		
 //		8)
-		Random random = new Random();
 		int value = (int)(Math.random() * 6) + 1;
 //		0부터 5(5.9999)까지의 정수를 구하게 됨 --> 1을 더하면 1부터 6까지의 정수 구할 수 있음
 		System.out.println("value : " + value);
